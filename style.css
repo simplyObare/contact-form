@@ -212,7 +212,7 @@ p {
    accent-color: var(--Green-medium);
 }
 
-.query>input:checked+.query {
+.query input:checked+.query {
    background-color: var(--Green-lighter);
 }
 
