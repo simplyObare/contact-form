@@ -86,7 +86,7 @@ function validateForm(e) {
     support.checked = false
     consent.checked = false
     firstName.style.border = '1px solid var(--Grey-medium)'
-    lastName.style.border = '1px solid var(--Grey-medium))'
+    lastName.style.border = '1px solid var(--Grey-medium)'
     email.style.border = '1px solid var(--Grey-medium)'
     message.style.border = '1px solid var(--Grey-medium)'
   }
